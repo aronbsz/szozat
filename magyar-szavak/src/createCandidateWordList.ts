@@ -77,6 +77,7 @@ candidateWordLetters.push(
     getWordLetters("dzsuvás"),
     getWordLetters("dzsadzsál"),
     getWordLetters("zsivaj"),
+    getWordLetters("türhő"),
 );
 
 // Save to file
